@@ -45,7 +45,7 @@ Application tree structure: The application is user friendly and built to handle
 * node index.js
 
 ## Dependencies
-![](/images/dep.png)
+<!-- ![](/images/dep.png) -->
 
 ## Built with
 * JavaScript
