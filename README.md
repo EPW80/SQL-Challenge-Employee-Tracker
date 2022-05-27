@@ -12,7 +12,7 @@ So that I can organize and plan my business
 
 This application follows the database shcema containing three variables:
 
-![](image/schema.PNG)
+![](/assets/images/schema.PNG)
 
 ## About
 
@@ -45,7 +45,7 @@ Application tree structure: The application is user friendly and built to handle
 * node index.js
 
 ## Dependencies
-![](image/dep.PNG)
+![](/assets/images/dep.PNG)
 
 ## Built with
 * JavaScript
@@ -55,9 +55,8 @@ Application tree structure: The application is user friendly and built to handle
 * MySQL
 
 ## Demo
-<!-- ![](image/screen.PNG)
-
-Do you want to learn more about this program? Please <a href="https://drive.google.com/file/d/1YR7YOwPlGoaFdIdoFeKc9-ysnnY5sM2P/view"> click here for a video demo </a>. -->
+ ![](/assets/images/screen.PNG)
+<!-- Do you want to learn more about this program? Please <a href="https://drive.google.com/file/d/1YR7YOwPlGoaFdIdoFeKc9-ysnnY5sM2P/view"> click here for a video demo </a>. --> 
 
 ## Author
 * Erik Williams 
