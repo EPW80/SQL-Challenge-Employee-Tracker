@@ -55,8 +55,8 @@ Application tree structure: The application is user friendly and built to handle
 * MySQL
 
 ## Demo
- <!-- ![](/images/screen.png) -->
-<!-- Do you want to learn more about this program? Please <a href="https://drive.google.com/file/d/1YR7YOwPlGoaFdIdoFeKc9-ysnnY5sM2P/view"> click here for a video demo </a>. --> 
+![](/images/screen2.png)
+Do you want to learn more about this program? Please <a href="https://youtu.be/QPjxJoe7t40"> click here for a video demo </a>. 
 
 ## Author
 * Erik Williams 
